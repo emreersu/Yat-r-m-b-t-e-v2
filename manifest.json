@@ -1,0 +1,8 @@
+{
+  "name":"Hesap Defteri","short_name":"Hesap Defteri","description":"Kişisel finans ve yatırım takip uygulaması",
+  "start_url":"./","scope":"./","display":"standalone","background_color":"#F6F1E7","theme_color":"#16302B","lang":"tr-TR",
+  "icons":[
+    {"src":"https://raw.githubusercontent.com/emreersu/Hesap-Defteri/main/icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"https://raw.githubusercontent.com/emreersu/Hesap-Defteri/main/icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
